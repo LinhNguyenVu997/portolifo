@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portolifo/static/css/main.67847a88.chunk.css",
+    "main.css": "/portolifo/static/css/main.4bbc2fd7.chunk.css",
     "main.js": "/portolifo/static/js/main.21823e75.chunk.js",
     "main.js.map": "/portolifo/static/js/main.21823e75.chunk.js.map",
     "runtime-main.js": "/portolifo/static/js/runtime-main.3d51b657.js",
@@ -8,15 +8,15 @@
     "static/js/2.3f96fd53.chunk.js": "/portolifo/static/js/2.3f96fd53.chunk.js",
     "static/js/2.3f96fd53.chunk.js.map": "/portolifo/static/js/2.3f96fd53.chunk.js.map",
     "index.html": "/portolifo/index.html",
-    "precache-manifest.28d087a7db424b86d9704f59d34c3679.js": "/portolifo/precache-manifest.28d087a7db424b86d9704f59d34c3679.js",
+    "precache-manifest.2fbe1d77549084750b6a6f9b9e38231c.js": "/portolifo/precache-manifest.2fbe1d77549084750b6a6f9b9e38231c.js",
     "service-worker.js": "/portolifo/service-worker.js",
-    "static/css/main.67847a88.chunk.css.map": "/portolifo/static/css/main.67847a88.chunk.css.map",
+    "static/css/main.4bbc2fd7.chunk.css.map": "/portolifo/static/css/main.4bbc2fd7.chunk.css.map",
     "static/media/logo.svg": "/portolifo/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3d51b657.js",
     "static/js/2.3f96fd53.chunk.js",
-    "static/css/main.67847a88.chunk.css",
+    "static/css/main.4bbc2fd7.chunk.css",
     "static/js/main.21823e75.chunk.js"
   ]
 }
